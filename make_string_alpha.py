@@ -14,7 +14,7 @@ The output is:
 Helloworld""")
 continue_program = "y"
 while continue_program == "y":
-    continue_program = input("Do you want to submit a string? Type 'y' or 'n': ")
+    continue_program = input("Do you want to submit a string? Type 'y' or 'n': ").lower()
     if continue_program == "y":
         user_input = input("Enter a string of characters: ")
         result = make_string_alpha(user_input)
