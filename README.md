@@ -4,8 +4,10 @@ When I come across reddit posts asking for help in Python, I've gotten into the 
 
 These are the questions I've attempted.
 
-1. lottery_game.py inspired by the question in this post: https://www.reddit.com/r/learnpython/comments/o0xd0c/help_with_homework/?utm_source=share&utm_medium=web2x&context=3
+1. lottery_game.py inspired by this post: https://www.reddit.com/r/learnpython/comments/o0xd0c/help_with_homework/?utm_source=share&utm_medium=web2x&context=3
 
-2. pos_or_neg_integer.py inspired by the question in this post: https://www.reddit.com/r/learnpython/comments/o9tsfw/i_need_some_help_on_this_simple_program/
+2. pos_or_neg_integer.py inspired by this post: https://www.reddit.com/r/learnpython/comments/o9tsfw/i_need_some_help_on_this_simple_program/
 
-3. sum_and_average.py inspired by the question in this post: https://www.reddit.com/r/learnpython/comments/od8rj6/newbie_question/?utm_source=share&utm_medium=web2x&context=3
+3. sum_and_average.py inspired by this post: https://www.reddit.com/r/learnpython/comments/od8rj6/newbie_question/?utm_source=share&utm_medium=web2x&context=3
+
+4. make_string_alpha.py inspired by this post: https://www.reddit.com/r/learnpython/comments/od8cs0/some_assistance_please/?utm_source=share&utm_medium=web2x&context=3
