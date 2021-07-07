@@ -13,3 +13,5 @@ These are the questions I've attempted.
 4. make_string_alpha.py inspired by this post: https://www.reddit.com/r/learnpython/comments/od8cs0/some_assistance_please/?utm_source=share&utm_medium=web2x&context=3
 
 5. count_the_letter.py inpsired by this post: https://www.reddit.com/r/learnpython/comments/odwgd1/every_time_i_try_to_find_the_amount_of_is_in_a/?utm_source=share&utm_medium=web2x&context=3
+
+6. in_order.py inspired by this post: https://www.reddit.com/r/learnpython/comments/ofokmn/what_am_i_supposed_to_do_here/
