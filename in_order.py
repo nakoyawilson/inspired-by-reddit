@@ -9,3 +9,10 @@ if __name__ = '__main__':
         print('In order')
     else:
         print('Not in order')
+
+    # Test in-order example
+    nums2 = [5, 6, 7, 8, 10]
+    if in_order(nums1):
+        print('In order')
+    else:
+        print('Not in order')
