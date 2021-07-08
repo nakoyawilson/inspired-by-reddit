@@ -17,3 +17,5 @@ These are the questions I've attempted.
 6. in_order.py inspired by this post: https://www.reddit.com/r/learnpython/comments/ofokmn/what_am_i_supposed_to_do_here/
 
 7. middle_item.py inspired by this post: https://www.reddit.com/r/learnpython/comments/ofnsom/lab_middle_item/
+
+8. replace_letter.py inspired by this post: https://www.reddit.com/r/learnpython/comments/ofxrh7/can_someone_help_me_replace_letters_in_a_string/ 
