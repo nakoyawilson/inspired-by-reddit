@@ -21,3 +21,5 @@ These are the questions I've attempted.
 8. replace_letter.py inspired by this post: https://www.reddit.com/r/learnpython/comments/ofxrh7/can_someone_help_me_replace_letters_in_a_string/
 
 9. create_phone_number.py inspired by this post: https://www.reddit.com/r/learnpython/comments/ogz6au/review_my_code/
+
+10. extract_number.py inspired by this post: https://www.reddit.com/r/learnpython/comments/oljjay/how_should_i_extract_number_with_comma_in_a_string/ 
