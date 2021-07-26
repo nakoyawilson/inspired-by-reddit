@@ -22,4 +22,6 @@ These are the questions I've attempted.
 
 9. create_phone_number.py inspired by this post: https://www.reddit.com/r/learnpython/comments/ogz6au/review_my_code/
 
-10. extract_number.py inspired by this post: https://www.reddit.com/r/learnpython/comments/oljjay/how_should_i_extract_number_with_comma_in_a_string/ 
+10. extract_number.py inspired by this post: https://www.reddit.com/r/learnpython/comments/oljjay/how_should_i_extract_number_with_comma_in_a_string/
+
+11. largest_odd_integer.py inspired by this post: https://www.reddit.com/r/learnpython/comments/orwsgr/is_there_a_better_way_to_actualize_this_purpose/
